@@ -1,0 +1,35 @@
+.swiper{
+    width:80%;
+    height:80%;
+}
+
+.swiper-slide{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    row-gap:25px;
+    color:#3255a0;
+}
+.swiper-slide h1{
+  font-size:1.5em;
+  font-family: 'Baloo 2', cursive;
+}
+.swiper-slide p{
+    width:50%;
+    text-align:center;
+    font-size:17px;
+}
+.swiper-pagination-bullet-active{
+    background-color:#3255a0;
+}
+.swiper-button-next:after{
+    color:#3255a0;
+}
+.swiper-button-prev:after{
+    color:#3255a0;
+}
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction{
+    bottom:0;
+    z-index:2;
+}

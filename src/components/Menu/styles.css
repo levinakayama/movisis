@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    height: 30px;
+    background-color: var(--azul);
+    color: white;
+    align-self: center;
+}
+a:active{
+    color: inherit;
+}
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+header a .carrinho{
+    
+    height: 25px;
+    width: 25px;
+}

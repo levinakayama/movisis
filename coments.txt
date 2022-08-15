@@ -1,0 +1,49 @@
+// function reverseDates(){
+    //     let changed = true
+    //     let temp = ''
+    //     while(changed === true){
+    //         changed = false
+    //         for(let i in pro){
+    //             console.log('AAAAAAAAA ', pro[i++].precoProduto < pro[i].precoProduto)  
+    //             try{
+    //                 if (pro[i++].precoProduto < pro[i].precoProduto){
+    //                     console.log('estupido')
+
+    //                     temp = pro[i]
+    //                     pro[i] = pro[i++]
+    //                     pro[i++] = temp
+                        
+    //                     changed = true;
+    //                 }
+    //             }catch(err){
+    //                 console.log("console do ")
+    //             }
+    //         }
+    //     }
+    //     // setProducts(temp)
+    //         // if(ordenedProducts === '') ordenedProducts.push(pro[i])
+    //         // for(let a = 0; a < ordenedProducts.length; a++){
+    //         //     if(pro[i].dataInclusao > ordenedProducts[a].dataInclusao){
+    //                     //ordenedProducts.splice(a-1, 0, pro[i])
+    //         //     }
+    //         // }
+    //         console.log(pro)
+    // }
+    // reverseDates()
+
+    // const elementClicked = e.target.parentNode
+    // const listaProduto = []
+    // listaProduto.push(elementClicked)
+    // // setProductsAddedToCard(productsAddedToCard => {return  { ...productsAddedToCard, elementClicked }})
+    // setProductsAddedToCard(listaProduto)
+    // console.log(productsAddedToCard + ' ' + listaProduto.innerHTML)
+    // function handleAddContent(e){
+    //     for (let i in pro){
+    //         if(e.target.parentNode.innerHTML.includes('Maçã') && pro[i].nomeProduto === "Maçã") {
+    //             setProductsAddedToCard(pro[i]) 
+    //         }
+    //     }
+    //     // console.log(item)
+    //     // setProductsAddedToCard(item)
+    //     console.log(productsAddedToCard)
+    // }

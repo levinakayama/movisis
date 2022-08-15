@@ -1,0 +1,22 @@
+.App .secao__produto{
+    width: 100%;
+    height: 300px;
+}
+
+.App .secao__produto input{
+    width: 80%;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
+.App .secao__produto input:focus{
+    outline: 0;
+    box-shadow: 0000;
+}
+.App .secao__produto .produtos{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
