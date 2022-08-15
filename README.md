@@ -1,5 +1,7 @@
-# movisis
-Projeto ou desafio para vaga de desenvolvedor jr.
+## Descrição do Projeto
+<h1 align="center">
+    Desafio criado pela empresa MOVISIS para a vaga de desenvolvedor jr.
+</h1>
 
 ### 🛠 Tecnologias
 
@@ -8,6 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ### Pré-requisitos
 
